@@ -1,2 +1,3 @@
 # Master-thesis
-documents and code used for my master thesis
+## This GitHub contains all documents and python scripts that are used for the Master Thesis
+## Topic: Classification of Dementia
