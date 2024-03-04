@@ -16,3 +16,8 @@
 ### The folder "preprocessing" contains the following files:
 #### - preprocessing.py - python script that does data preprocessing
 #### - setup_dataframe.py - python script that sets up the dataframe
+
+## Part 2: Baseline
+### The folder "baseline" contains the following files:
+#### - machine_learning.py - python script baseline for all machine learning algorithms
+#### - transformer_baseline.py - python script baseline for transformer models
