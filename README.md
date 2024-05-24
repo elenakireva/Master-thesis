@@ -4,7 +4,7 @@
 #### Supervisor: Frank Tsiwah
 #### Master programme: Information Science
 
-### This GitHub contains all documents and python scripts that are used for the Master Thesis
+### This GitHub contains all python scripts that are used for the Master Thesis
 
 ## Part 1: Data
 ### The folder "data" contains the following files:
