@@ -13,4 +13,4 @@
 #### The folder contains python files used to clean up the data from non-verbal symbols, remove stop words, and split into train/dev/test
 
 ## "models" folder
-#### The folder contains python files for the machine learning classifiers and the LLMs
+#### The folder contains python files for the machine learning classifiers and the LLMs, including the extraction of word2vec and s-bert embeddings, and plotting the features
