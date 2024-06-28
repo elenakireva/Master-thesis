@@ -1,7 +1,6 @@
 # Master Thesis: Detection of Dementia using word and sentence embeddings 
 #### Name: Elena Kireva
 #### Student number: s3940403
-#### Supervisor: Frank Tsiwah
 #### Master programme: Information Science
 
 
